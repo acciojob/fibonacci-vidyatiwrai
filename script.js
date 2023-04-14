@@ -1,6 +1,6 @@
-// function fibonacci(num) {
+function fibonacci(num) {
 // your code here
-	const fibonacci = num => {
+	// const fibonacci = num => {
   let a = 0, b = 1, c = num;
   
   for(let i = 2; i <= num; i++) {
